@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gustavo Morales</h1>
+<h1 align="center">Hola 👋, Soy Gustavo Morales</h1>
 <h3 align="center">Soy un estudiante en Ingeniería en Ciencias de la computación y programador JR</h3>
 
 - 🔭Hice reciéntemente un proyecto de SO [Comunicación en red local en Linux](https://github.com/GussX03/Proyecto-Ubuntu)
