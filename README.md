@@ -13,7 +13,7 @@
 
 - 📫 Puedes contactarme en **gustavotlx03@gmail.com**
 
-- 📄 Conoce mis experiencias en [[https://github.com/GussX03](https://github.com/GussX03/Certificados)]()
+- 📄 Conoce mis experiencias en [[https://github.com/GussX03/Certificados)]
 
 - ⚡ Me divierto **Jugando videojuegos o asistiendo a cursos para seguir aprendiendo**
 
